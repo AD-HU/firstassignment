@@ -1,0 +1,43 @@
+body{
+    background-image: url(git.png);
+    background-repeat: no-repeat;
+    color: #3e3e40;
+    margin: 0;
+}
+
+section{
+    margin: 0 auto;
+}
+
+#highlight{
+    color:purple;
+    font-weight: bold;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.header-left{
+    width: 45%;
+    float: left;
+    margin-top: 20px;
+    padding-left: 10px;
+    text-align: center;
+    margin-right: 10px;
+    
+}
+
+.header-left p{
+    text-align:justify;
+}
+
+.header-right{
+    width: 45%;
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.header-right img{
+    border-radius: 40px;
+    width: 100%;
+    float: inherit;
+}
